@@ -1,0 +1,17 @@
+{
+    "name": "jest-testing",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+        "test": "jest"
+    },
+    "devDependencies": {
+        "@babel/core": "^7.17.8",
+        "@babel/plugin-transform-modules-commonjs": "^7.17.7",
+        "babel-jest": "^27.5.1",
+        "jest": "^27.5.1"
+    },
+    "dependencies": {
+        "axios": "^0.26.1"
+    }
+}
